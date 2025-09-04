@@ -114,4 +114,5 @@ Além disso, este trabalho contribui academicamente ao demonstrar a aplicação 
 2. [Uploading ArtigoForecastInventorywithAI.pdf…]()
 3. [Uploading ArtigoImpactofInventoryForecasting.pdf…]()
 4. [Uploading 1704073.pdf…]()
+5. https://www.sciencedirect.com/science/article/pii/S1877050923002958/pdf?md5=f9c6eebbcf42fdbaf669cca40ffe9f9c&pid=1-s2.0-S1877050923002958-main.pdf
 
