@@ -113,3 +113,5 @@ Além disso, este trabalho contribui academicamente ao demonstrar a aplicação 
 1. [Uploading ArtigoEstoquecomIA.pdf…]()
 2. [Uploading ArtigoForecastInventorywithAI.pdf…]()
 3. [Uploading ArtigoImpactofInventoryForecasting.pdf…]()
+4. [Uploading 1704073.pdf…]()
+
