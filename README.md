@@ -110,6 +110,6 @@ Além disso, este trabalho contribui academicamente ao demonstrar a aplicação 
 
 
 ## 10. Artigos Ciêntificos de Refência:
-[Uploading ArtigoEstoquecomIA.pdf…]()
-[Uploading ArtigoForecastInventorywithAI.pdf…]()
-
+1. [Uploading ArtigoEstoquecomIA.pdf…]()
+2. [Uploading ArtigoForecastInventorywithAI.pdf…]()
+3. [Uploading ArtigoImpactofInventoryForecasting.pdf…]()
